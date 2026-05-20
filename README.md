@@ -2,17 +2,6 @@
 
 A simple Laravel task management application with projects and tasks.
 
-## Requirements
-
-- PHP 8.3+
-- Composer 2
-- Node.js & npm
-- One of the following for local development:
-  - [DDEV](https://ddev.readthedocs.io/en/stable/) (recommended)
-  - A local web server with MariaDB/MySQL or SQLite
-
----
-
 ## Setup with DDEV
 DDEV handles PHP, the web server, and the database automatically via Docker.
 
